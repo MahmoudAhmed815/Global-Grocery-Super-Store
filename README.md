@@ -43,14 +43,6 @@ The project covers the full data science workflow, including data cleaning, expl
 - Scikit-learn
 - Streamlit
 
-## 📦 Project Structure
-├── data/
-├── notebooks/
-├── models/
-├── app.py
-├── requirements.txt
-└── README.md
-
 ## 💡 Conclusion
 
 This project demonstrates how data-driven approaches can uncover valuable insights and support decision-making in e-commerce, while also showcasing the importance of feature engineering and model selection.
